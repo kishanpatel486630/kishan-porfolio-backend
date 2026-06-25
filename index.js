@@ -20,12 +20,20 @@ const PORT = process.env.PORT || 5000;
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
+  // Hardcoded production Vercel URL — always allowed
+  'https://kishan-porfolio.vercel.app',
 ];
 
-// Add the production CLIENT_URL from env if set
+// Also add any extra CLIENT_URL from Render env (e.g. custom domain)
 if (process.env.CLIENT_URL) {
-  allowedOrigins.push(process.env.CLIENT_URL.trim());
+  const url = process.env.CLIENT_URL.trim();
+  if (!allowedOrigins.includes(url)) {
+    allowedOrigins.push(url);
+  }
 }
+
+console.log('✅ CORS allowed origins:', allowedOrigins);
+
 
 // Middleware
 app.use(cors({
