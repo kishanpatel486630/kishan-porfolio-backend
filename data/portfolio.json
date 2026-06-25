@@ -178,26 +178,6 @@
       "year": "2024",
       "client": "RK Bank",
       "hasCaseStudy": true
-    },
-    {
-      "role": "Designer",
-      "projectUrl": "",
-      "images": [
-        "/images/nubia-parking-screens.png",
-        ""
-      ],
-      "id": "project_1782365577257",
-      "title": "New ProjectVerification Project",
-      "category": "Description of Category",
-      "description": "Project summary description goes here.",
-      "image": "/images/nubia-parking-screens.png",
-      "tags": [
-        "Figma",
-        "Mobile App"
-      ],
-      "year": "2026",
-      "client": "Self",
-      "hasCaseStudy": false
     }
   ],
   "caseStudies": {

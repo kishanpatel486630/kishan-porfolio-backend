@@ -146,7 +146,7 @@ router.get("/admin/check-session", (req, res) => {
 // Image Upload Helper
 async function saveUploadedFile(filename, base64Data) {
   // Strip metadata prefix (e.g., "data:image/png;base64,") if present
-  const base64Content = base64Data.replace(/^data:image\/\w+;base64,/, "");
+  const base64Content = base64Data.replace(/^data:[^;]+;base64,/, "");
   const buffer = Buffer.from(base64Content, "base64");
 
   const serverUploadsDir = path.join(__dirname, "../uploads");
