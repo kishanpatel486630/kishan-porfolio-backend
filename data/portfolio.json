@@ -1,0 +1,668 @@
+{
+  "personalInfo": {
+    "name": "Kishan Parvadiya",
+    "role": "UI/UX Designer | Aspiring Product Manager",
+    "tagline": "Crafting digital experiences that inspire.",
+    "bio": "Aspiring Product Manager with a strong foundation in user-centered design and a Bachelor's in Computer Science in progress. Certified Scrum Master skilled in Agile practices, product road mapping, and translating user needs into tangible product features. Combines hands-on experience in Figma prototyping and design systems with a passion for managing the entire product lifecycle to deliver impactful digital solutions that align with business objectives.",
+    "email": "kishanpatel486630@gmail.com",
+    "location": "Vadodara, Gujarat, India",
+    "phone": "9328797998",
+    "profileImage": "/images/profile.jpg",
+    "social": {
+      "dribbble": "https://dribbble.com/kishanparvadiya",
+      "behance": "https://behance.net/kishanparvadiya",
+      "linkedin": "https://linkedin.com/in/kishan-parvadiya-593120268",
+      "github": "https://github.com/kishanpatel486630",
+      "twitter": "https://twitter.com/kishanparvadiya"
+    },
+    "resumeUrl": "https://drive.google.com/file/d/1o6AZr9irkFMHJ-xepU5FIXD385b22t2w/view?usp=sharing"
+  },
+  "navLinks": [
+    {
+      "label": "Home",
+      "href": "#hero"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "clientLogos": [
+    {
+      "name": "Google",
+      "text": "Google"
+    },
+    {
+      "name": "Microsoft",
+      "text": "Microsoft"
+    },
+    {
+      "name": "Adobe",
+      "text": "Adobe"
+    },
+    {
+      "name": "Figma",
+      "text": "Figma"
+    },
+    {
+      "name": "Spotify",
+      "text": "Spotify"
+    },
+    {
+      "name": "Slack",
+      "text": "Slack"
+    },
+    {
+      "name": "Stripe",
+      "text": "Stripe"
+    },
+    {
+      "name": "Notion",
+      "text": "Notion"
+    }
+  ],
+  "projects": [
+    {
+      "role": "Designer",
+      "projectUrl": "",
+      "images": [
+        "/images/nubia-parking-screens.png"
+      ],
+      "id": "nubiabarking",
+      "title": "Nubia Parking",
+      "category": "Smart Parking Management System",
+      "description": "Nubia Parking is a smart mobile-based parking management system built to help security personnel manage vehicle entries, track slot availability, and monitor daily cash flow in real time.",
+      "image": "/images/nubia-parking-screens.png",
+      "tags": [
+        "Mobile App",
+        "Parking",
+        "Operations"
+      ],
+      "year": "2025",
+      "client": "Internal",
+      "hasCaseStudy": true
+    },
+    {
+      "role": "Designer",
+      "projectUrl": "",
+      "images": [
+        "/images/workhub-coworking.png"
+      ],
+      "id": "evmcare",
+      "title": "WorkHub",
+      "category": "Co-Working Space Booking App",
+      "description": "WorkHub is a mobile-first co-working space booking platform that allows users to discover, explore, and book workspaces such as private cabins, meeting rooms, and shared desks seamlessly.",
+      "image": "/images/workhub-coworking.png",
+      "tags": [
+        "Booking",
+        "Co-Working",
+        "Mobile App"
+      ],
+      "year": "2024",
+      "client": "WorkHub",
+      "hasCaseStudy": true
+    },
+    {
+      "role": "Designer",
+      "projectUrl": "",
+      "images": [
+        "/images/leadsystem-crm-screens.png",
+        "/images/lead-crm-dashboard.png"
+      ],
+      "id": "leadmgmt",
+      "title": "Lead Management",
+      "category": "Lead Management System - LeadSystem CRM",
+      "description": "LeadSystem CRM is a mobile and web dashboard based customer relationship and lead management platform designed to help businesses track leads, manage interactions, and streamline sales workflows in one unified system.",
+      "image": "/images/leadsystem-crm-screens.png",
+      "tags": [
+        "CRM",
+        "Lead Management",
+        "Mobile App"
+      ],
+      "year": "2024",
+      "client": "Corporate",
+      "hasCaseStudy": true
+    },
+    {
+      "role": "Manager",
+      "projectUrl": "",
+      "images": [
+        "/images/adrinoling-tournament.png"
+      ],
+      "id": "adrinoling",
+      "title": "Adrenalinq",
+      "category": "Tournament Management Ecosystem",
+      "description": "Adrenalinq is a comprehensive sports tournament management ecosystem for local communities and organizers, streamlining registration, live match tracking, and player auctions across mobile apps and web dashboards.",
+      "image": "/images/adrinoling-tournament.png",
+      "tags": [
+        "Sports",
+        "Tournament",
+        "Ecosystem"
+      ],
+      "year": "2025",
+      "client": "Adrenalinq",
+      "hasCaseStudy": true
+    },
+    {
+      "role": "Designer",
+      "projectUrl": "",
+      "images": [
+        "/images/rk-credit-first.png"
+      ],
+      "id": "rkcredit",
+      "title": "RK Credit First",
+      "category": "Credit Card Management App",
+      "description": "RK Credit First is a mobile-first financial platform that simplifies how users explore, apply for, and manage multiple credit cards in one unified ecosystem.",
+      "image": "/images/rk-credit-first.png",
+      "tags": [
+        "Fintech",
+        "Credit Cards",
+        "Mobile App"
+      ],
+      "year": "2024",
+      "client": "RK Bank",
+      "hasCaseStudy": true
+    },
+    {
+      "role": "Designer",
+      "projectUrl": "",
+      "images": [
+        "/images/nubia-parking-screens.png",
+        ""
+      ],
+      "id": "project_1782365577257",
+      "title": "New ProjectVerification Project",
+      "category": "Description of Category",
+      "description": "Project summary description goes here.",
+      "image": "/images/nubia-parking-screens.png",
+      "tags": [
+        "Figma",
+        "Mobile App"
+      ],
+      "year": "2026",
+      "client": "Self",
+      "hasCaseStudy": false
+    }
+  ],
+  "caseStudies": {
+    "nubiabarking": {
+      "id": "nubiabarking",
+      "title": "Nubia Parking - Smart Parking Management System",
+      "subtitle": "A mobile-based system for real-time vehicle entry, slot tracking, and cash flow monitoring",
+      "overview": "Nubia Parking is a smart mobile-based parking management system built to help security personnel manage vehicle entries, track slot availability, and monitor daily cash flow in real time. The product targets parking operations staff who need a fast, reliable tool to replace manual registers and paper-based logs.",
+      "role": "Product Designer (UI/UX Designer)",
+      "timeline": "4-6 weeks",
+      "team": "1 Product Designer (Me), 1 Flutter Developer, 1 Backend Developer",
+      "tools": [
+        "Figma (UI/UX Design & Prototyping)",
+        "User Flow Mapping",
+        "Wireframing"
+      ],
+      "sections": [
+        {
+          "title": "Role & Responsibilities",
+          "content": "As Product Designer, I led the complete design process from discovery to handoff.\n                  • Conducted stakeholder interviews with parking facility operators\n                  • Defined user flows for vehicle entry, slot tracking, and cash collection\n                  • Designed all mobile UI screens and interactive prototypes\n                  • Collaborated with Flutter developer for implementation"
+        },
+        {
+          "title": "The Problem",
+          "content": "Parking facilities rely on manual processes that are error-prone and slow.\n                  • Vehicle entries recorded on paper ledgers\n                  • No real-time slot availability visibility\n                  • Cash collection tracked manually\n                  • Difficult to audit end-of-day reports\n                  • Security personnel lack a unified management tool"
+        },
+        {
+          "title": "Research & Discovery",
+          "content": "I analyzed parking facility workflows and interviewed security personnel.\n                  • Staff need quick vehicle entry logging\n                  • Real-time slot status is critical during peak hours\n                  • Cash reconciliation is done at end of each shift\n                  • Mobile-first approach preferred over desktop\n                  • Minimal training time is essential for adoption"
+        },
+        {
+          "title": "Design Process",
+          "content": "The core flow was designed as Login → Dashboard → Vehicle Entry → Slot View → Cash Summary.\n                  • Final UI Screens: 8\n                  • Clean dark-mode interface optimized for low-light parking environments\n                  • Quick entry form with plate number input and slot assignment\n                  • Live slot grid showing occupied and available spaces\n                  • Daily cash flow summary with entry count and revenue\n                  • Prototyped complete shift workflow from entry to end-of-day report"
+        },
+        {
+          "title": "Core Features",
+          "content": "The app covers all critical parking operations in one interface.\n                  • Vehicle Entry Logging: quick plate number and slot assignment\n                  • Live Slot Map: visual grid of occupied vs. available slots\n                  • Cash Flow Dashboard: real-time revenue and entry count\n                  • Daily Reports: shift summary for audit and reconciliation\n                  • Search & Filter: find vehicle records quickly"
+        },
+        {
+          "title": "Results",
+          "content": "The system significantly improved operational efficiency for parking staff.\n                  • Entry Logging Speed: 50% Faster\n                  • Errors in Records: Reduced\n                  • Cash Reconciliation: Simplified\n                  • Slot Visibility: Real-time\n                  • Staff Adoption: High"
+        },
+        {
+          "title": "Learnings",
+          "content": "Operational tools succeed when they reduce cognitive load and match existing workflows.\n                  • Speed is the #1 priority for operations staff tools\n                  • Dark-mode UI works better in low-light parking environments\n                  • Minimal fields and quick actions drive adoption\n                  • Visual slot maps are more effective than list views"
+        }
+      ]
+    },
+    "evmcare": {
+      "id": "evmcare",
+      "title": "WorkHub - Co-Working Space Booking App",
+      "subtitle": "A mobile-first platform for discovering and booking workspaces in minutes",
+      "overview": "WorkHub is a mobile-first co-working space booking platform that allows users to discover, explore, and book workspaces such as private cabins, meeting rooms, and shared desks seamlessly. The product focused on reducing booking friction and improving decision-making through clear visual information.",
+      "role": "Product designer & Product manager",
+      "timeline": "6-8 weeks",
+      "team": "1 Product Designer (Me - Project Lead), 1 Flutter Developer, 1 Backend Developer",
+      "tools": [
+        "Figma (UI/UX Design & Prototyping)",
+        "User Research",
+        "Wireframing"
+      ],
+      "sections": [
+        {
+          "title": "Role & Responsibilities",
+          "content": "As Product Designer (Lead), I owned the complete design process from discovery to validation.\n                  • Led end-to-end product design\n                  • Defined user experience strategy and booking flow\n                  • Designed UI and interactive prototypes\n                  • Collaborated closely with Flutter and backend developers for implementation"
+        },
+        {
+          "title": "The Problem",
+          "content": "Finding and booking co-working spaces is often fragmented and inconvenient.\n                  • No centralized platform to explore nearby workspaces\n                  • Difficulty comparing amenities and pricing\n                  • Complex booking process\n                  • Lack of real-time availability\n                  • Poor mobile experience in existing platforms"
+        },
+        {
+          "title": "Research & Discovery",
+          "content": "I analyzed co-working platforms and user booking behavior.\n                  • Users prefer quick search and booking under 1 minute\n                  • Location-based discovery is essential\n                  • Users want clear space types: Cabin, Meeting Room, Desk\n                  • Ratings and reviews strongly influence decisions\n                  • Simple UI increases booking conversion"
+        },
+        {
+          "title": "Design Process",
+          "content": "The booking flow was designed as Home -> Search -> Space Detail -> Select Space -> Book, with a focus on reducing steps.\n                  • Final UI Screens: 10\n                  • Clean light-theme interface with strong orange CTAs\n                  • Smart search with category shortcuts for Space, Meet, and Cabin\n                  • Visual listing cards with image, ratings, location, and capacity\n                  • Detailed view with amenities, description, and pricing transparency\n                  • Seamless booking with space type selection and clear confirmation CTA\n                  • Prototyped end-to-end flow from discovery to booking confirmation"
+        },
+        {
+          "title": "Core Features",
+          "content": "The final product supports fast and informed workspace booking.\n                  • Smart Search: find spaces based on location\n                  • Workspace Listing: visual cards with ratings and details\n                  • Detailed View: amenities, pricing, and description\n                  • Space Selection: choose workspace type easily\n                  • Booking System: quick and seamless booking flow"
+        },
+        {
+          "title": "Results",
+          "content": "The redesign improved speed, engagement, and conversion in booking journeys.\n                  • Booking Speed: 60% Faster\n                  • User Engagement: Increased\n                  • Conversion Rate: Improved\n                  • Usability: High\n                  • Decision-Making: Better with clearer information"
+        },
+        {
+          "title": "Learnings",
+          "content": "Booking products perform best when users can evaluate and act quickly.\n                  • Visual content drives user decisions\n                  • Clear CTAs improve conversion\n                  • Simplicity in booking flow is critical\n                  • Categorization improves discoverability"
+        }
+      ]
+    },
+    "leadmgmt": {
+      "id": "leadmgmt",
+      "title": "Lead Management System - LeadSystem CRM",
+      "subtitle": "A mobile and web dashboard platform for lead tracking, follow-ups, and sales workflow management",
+      "overview": "LeadSystem CRM is a mobile and web dashboard based customer relationship and lead management platform designed to help businesses track leads, manage customer interactions, and streamline sales workflows in one unified system.",
+      "role": "Product designer & Product manager",
+      "timeline": "6-8 weeks",
+      "team": "1 Product Designer (Me - Product Lead), 1 Flutter Developer, 1 Angular Developer, 1 Backend Developer",
+      "tools": [
+        "Figma (UI/UX Design & Prototyping)",
+        "User Research",
+        "Wireframing"
+      ],
+      "sections": [
+        {
+          "title": "Role & Responsibilities",
+          "content": "As Product designer & Product manager, I drove direction and execution end-to-end.\n                  • Led end-to-end product design from research to handoff\n                  • Defined UX strategy and user flows for mobile and web dashboard\n                  • Designed UI system and interactive prototypes\n                  • Coordinated scope and priorities with Flutter, Angular, and backend teams"
+        },
+        {
+          "title": "The Problem",
+          "content": "Businesses struggle to manage leads efficiently due to scattered tools and lack of structured tracking.\n                  • Leads are stored across spreadsheets and multiple platforms\n                  • No centralized system to track lead status\n                  • Difficulty managing follow-ups\n                  • Poor visibility of the sales pipeline\n                  • Time-consuming manual data entry"
+        },
+        {
+          "title": "Research & Discovery",
+          "content": "I analyzed small-business workflows and existing CRM usage patterns.\n                  • Users prefer mobile-first CRM access\n                  • Quick lead updates are critical for sales teams\n                  • Follow-up reminders are essential\n                  • Visual dashboards improve decision-making\n                  • Simple UI is preferred over complex enterprise tools"
+        },
+        {
+          "title": "Design Process",
+          "content": "The core flow was designed as Login -> Dashboard -> Leads -> Lead Details -> Follow-up to reduce friction in daily sales tasks.\n                  • Final UI Screens: 7\n                  • Dashboard analytics cards for Active Leads, Customer Count, and Orders\n                  • Lead list in a clean card layout with quick access to call, email, and details\n                  • Smart search and filters for quick lead lookup\n                  • Floating action button for fast lead creation\n                  • Lead detail view with customer info, services/pricing, and follow-up date\n                  • Prototyped flows for add lead, update status, and follow-up tracking"
+        },
+        {
+          "title": "Core Features",
+          "content": "The final product covered key sales operations across mobile and dashboard experiences.\n                  • Lead Tracking: add, edit, and manage leads in an organized list\n                  • Quick Actions: call and email directly from app\n                  • Follow-Up Management: track next follow-up dates to improve conversion\n                  • Dashboard Analytics: performance overview for leads and activity\n                  • Add Lead: fast entry with minimal required fields"
+        },
+        {
+          "title": "Results",
+          "content": "The redesign improved consistency, speed, and visibility for business teams.\n                  • Lead Tracking Speed: 40% Faster\n                  • Follow-up Efficiency: Improved\n                  • Data Organization: Centralized\n                  • User Experience: Simplified\n                  • Pipeline Visibility: Better\n                  • Manual Dependency: Reduced"
+        },
+        {
+          "title": "Learnings",
+          "content": "Business tools perform best when clarity and speed are prioritized.\n                  • Simplicity is key for day-to-day business workflows\n                  • Quick actions like call and email improve usability\n                  • Visual dashboards help users make faster decisions\n                  • Reducing steps increases productivity"
+        }
+      ]
+    },
+    "adrinoling": {
+      "id": "adrinoling",
+      "title": "Adrenalinq - Sports Tournament Management Ecosystem",
+      "subtitle": "A multi-role ecosystem with mobile apps and web dashboards for end-to-end tournament operations",
+      "overview": "Adrenalinq is a comprehensive sports tournament management ecosystem designed for local communities and organizers. It streamlines the complete tournament lifecycle, from player registration to live match tracking and player auctions, across multiple platforms and user roles.",
+      "role": "Product designer & Product manager (Project Lead)",
+      "timeline": "8-10 weeks",
+      "team": "1 Product Designer (Me - Project Lead), 2 Flutter Developers, 3 Backend Developers, 2 Angular Developers, 5 Testers",
+      "tools": [
+        "Figma (UI/UX + Design System)",
+        "Prototyping",
+        "User Flow Mapping"
+      ],
+      "sections": [
+        {
+          "title": "Platform Breakdown",
+          "content": "The ecosystem includes 3 mobile apps and web dashboards for complete operational coverage.\n                  • Player App: discover tournaments, register, and track matches\n                  • Organizer App: create tournaments, manage registrations, and schedule matches\n                  • Owner App: bid on players, build teams, and manage budgets\n                  • Web Platforms: Admin Panel for full control and Organizer Dashboard for analytics and operations"
+        },
+        {
+          "title": "The Problem",
+          "content": "Local sports tournaments are often managed manually or through disconnected tools.\n                  • No unified system for players, organizers, and owners\n                  • Manual registration and scheduling\n                  • Lack of transparency in player selection and auctions\n                  • Poor communication between stakeholders\n                  • No real-time updates for matches"
+        },
+        {
+          "title": "Research & Discovery",
+          "content": "I studied local tournament workflows and user behaviors.\n                  • Players want easy discovery and quick registration\n                  • Organizers need centralized control dashboards\n                  • Owners require transparent auction systems\n                  • Mobile-first approach is critical\n                  • Real-time updates increase engagement"
+        },
+        {
+          "title": "Design Process",
+          "content": "I designed a role-based ecosystem instead of a single app, creating focused experiences per user type.\n                  • Final UI Screens: 6\n                  • Separated journeys for player, organizer, and auction workflows\n                  • Visual-first strategy with card-based tournament listings\n                  • Simplified bottom navigation for Discover, Matches, and Profile\n                  • Live feedback indicators for registrations and matches\n                  • Action-driven CTAs like Register Now and View Details"
+        },
+        {
+          "title": "Core Features",
+          "content": "The ecosystem supports tournament operations end-to-end.\n                  • Player App: tournament discovery, registration, and match tracking\n                  • Organizer App: tournament creation, player management, and scheduling\n                  • Owner App: player auction system, budget tracking, and team building\n                  • Admin and Web Dashboards: system control, analytics, and monitoring"
+        },
+        {
+          "title": "Results",
+          "content": "The product improved speed, transparency, and multi-role coordination.\n                  • Setup Time: 45% Faster\n                  • Engagement: Increased\n                  • Transparency: High\n                  • Efficiency: Improved\n                  • Coordination: Better across players, organizers, and owners"
+        },
+        {
+          "title": "Learnings",
+          "content": "Complex ecosystems succeed when each role has clear and focused workflows.\n                  • Multi-role systems need strict flow separation\n                  • Simplicity is crucial even in complex products\n                  • Real-time updates significantly improve engagement\n                  • Different user types require different UX strategies"
+        }
+      ]
+    },
+    "rkcredit": {
+      "id": "rkcredit",
+      "title": "RK Credit First - Credit Card Management App",
+      "subtitle": "A mobile-first platform to discover, apply for, and manage multiple credit cards in one place",
+      "overview": "RK Credit First is a mobile-first financial platform that simplifies how users explore, apply for, and manage multiple credit cards in one unified ecosystem. The app improves financial visibility, streamlines application processes, and gives users better control over credit-related activities.",
+      "role": "Product Designer (UI/UX Designer)",
+      "timeline": "6-8 weeks",
+      "team": "1 Product Designer (Me), 2 Flutter Developers, 1 Backend Developer",
+      "tools": [
+        "Figma (UI/UX Design & Prototyping)",
+        "User Flow Mapping",
+        "Design System"
+      ],
+      "sections": [
+        {
+          "title": "Role & Responsibilities",
+          "content": "As Product Designer (UI/UX Designer), I drove the user experience from concept to implementation.\n                  • Designed end-to-end user experience\n                  • Created UI screens and interactive prototypes\n                  • Collaborated with developers during implementation"
+        },
+        {
+          "title": "The Problem",
+          "content": "Users struggle to manage multiple credit cards due to fragmented banking apps and lack of centralized control.\n                  • Managing multiple cards across different apps\n                  • Limited visibility of credit usage and limits\n                  • Complicated application processes\n                  • Lack of quick access to financial tools\n                  • Poor user experience in traditional banking apps"
+        },
+        {
+          "title": "Research & Discovery",
+          "content": "I analyzed fintech apps and user behavior patterns.\n                  • Users prefer a single platform for all credit cards\n                  • Fast application process improves conversion\n                  • Visual dashboards help users understand finances\n                  • Users value rewards, offers, and cashback visibility\n                  • Trust and simplicity are critical in fintech apps"
+        },
+        {
+          "title": "Design Process",
+          "content": "The user flow was designed as Home -> Explore Cards -> View Details -> Apply -> Track Status.\n                  • Final UI Screens: 7\n                  • Clean financial dashboard for apply and status actions\n                  • Scrollable card discovery list with clear CTAs\n                  • Realistic card UI and bank branding for trust\n                  • Quick actions for apply, status, and future loan inquiry\n                  • Engagement modules for Refer and Earn and cashback highlights\n                  • Prototyped apply, confirmation, status tracking, and offers exploration"
+        },
+        {
+          "title": "Core Features",
+          "content": "The app focuses on fast credit-card exploration and management.\n                  • Credit Card Discovery: explore and compare multiple bank cards\n                  • Easy Application Flow: simple and fast application process\n                  • Application Tracking: view real-time application status\n                  • Rewards and Offers: cashback and referral benefits\n                  • Financial Insights (Future Scope): credit score tracking and spending analysis"
+        },
+        {
+          "title": "Results",
+          "content": "The redesign improved speed, engagement, and financial clarity.\n                  • Application Speed: 35% Faster\n                  • User Engagement: Increased\n                  • Conversion Rate: Improved\n                  • Usability: Enhanced\n                  • Discovery Experience: Improved\n                  • Financial Awareness: Better"
+        },
+        {
+          "title": "Learnings",
+          "content": "Fintech products need high trust, clarity, and action-focused flows.\n                  • Trust-driven design is crucial in fintech\n                  • Clear CTAs improve conversion rates\n                  • Visual representation simplifies complex data\n                  • Minimal UI reduces cognitive load"
+        }
+      ]
+    }
+  },
+  "skills": [
+    {
+      "category": "UI/UX Design",
+      "items": [
+        {
+          "name": "Wireframing",
+          "level": 95
+        },
+        {
+          "name": "Prototyping",
+          "level": 94
+        },
+        {
+          "name": "Visual Design",
+          "level": 92
+        },
+        {
+          "name": "Design Systems",
+          "level": 90
+        },
+        {
+          "name": "User Research",
+          "level": 88
+        }
+      ]
+    },
+    {
+      "category": "Product Management",
+      "items": [
+        {
+          "name": "Agile & Scrum",
+          "level": 95
+        },
+        {
+          "name": "Backlog Management",
+          "level": 92
+        },
+        {
+          "name": "Product Lifecycle",
+          "level": 90
+        },
+        {
+          "name": "Stakeholder Mgmt",
+          "level": 88
+        },
+        {
+          "name": "Product Roadmapping",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "category": "Tools & Software",
+      "items": [
+        {
+          "name": "Figma",
+          "level": 96
+        },
+        {
+          "name": "Canva",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "category": "Technical & Analytical",
+      "items": [
+        {
+          "name": "Problem Solving",
+          "level": 95
+        },
+        {
+          "name": "Design Thinking",
+          "level": 92
+        },
+        {
+          "name": "UX Research Analysis",
+          "level": 88
+        },
+        {
+          "name": "A/B Testing",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        {
+          "name": "Attention to Detail",
+          "level": 95
+        },
+        {
+          "name": "Communication",
+          "level": 94
+        },
+        {
+          "name": "Collaboration",
+          "level": 92
+        },
+        {
+          "name": "Critical Thinking",
+          "level": 90
+        },
+        {
+          "name": "Time Management",
+          "level": 88
+        }
+      ]
+    },
+    {
+      "category": "Bonus Skills",
+      "items": [
+        {
+          "name": "Responsive Design",
+          "level": 92
+        },
+        {
+          "name": "Mobile-First Design",
+          "level": 90
+        },
+        {
+          "name": "Accessibility (WCAG)",
+          "level": 85
+        },
+        {
+          "name": "Basic HTML/CSS",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "category": "Automation testing",
+      "items": [
+        {
+          "name": "Playwright",
+          "level": 85
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Product Designer",
+      "company": "Novus Ark",
+      "location": "Vadodara, Gujarat",
+      "period": "Jul 2025 — Present",
+      "description": "Partnered with clients and cross-functional teams to gather requirements, translating business objectives into intuitive product designs for web and mobile platforms.",
+      "highlights": [
+        "Managed the product design lifecycle from user research to high-fidelity prototypes",
+        "Championed user-centric principles to enhance usability and drive engagement",
+        "Ensured final designs were accessible, scalable, and met client goals"
+      ]
+    },
+    {
+      "title": "UI/UX Design Intern",
+      "company": "Novus Ark",
+      "location": "Vadodara, Gujarat",
+      "period": "Jan 2025 — Jul 2025",
+      "description": "Collaborated with design and development teams to define user flows and create user-friendly interfaces for web and mobile applications.",
+      "highlights": [
+        "Gained hands-on experience in research, wireframing, and Figma prototyping",
+        "Applied responsive design principles for seamless product experiences",
+        "Contributed to scalable design systems ensuring visual consistency"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "field": "Computer Science",
+      "institution": "ITM(SLS) BARODA UNIVERSITY",
+      "location": "Vadodara, Gujarat",
+      "period": "2022 — 2026",
+      "description": "Currently pursuing Bachelor's degree with a focus on product lifecycle and development.",
+      "achievements": [
+        "CGPA: 8.63 / 10"
+      ]
+    },
+    {
+      "degree": "Higher Secondary Science stream",
+      "field": "Science",
+      "institution": "Sarva Vidhyalaya High School",
+      "location": "Kadi, Mahesana",
+      "period": "2020 — 2022",
+      "description": "Pre-university education with core focus on exact sciences.",
+      "achievements": [
+        "Percentage: 64.67%"
+      ]
+    },
+    {
+      "degree": "Secondary School",
+      "field": "General Education",
+      "institution": "Mahatma Gandhi U.B. Vidhyalaya",
+      "location": "Morbi, Gujarat",
+      "period": "2018 — 2020",
+      "description": "Completed foundational secondary education.",
+      "achievements": [
+        "Percentage: 73.67%"
+      ]
+    },
+    {
+      "degree": "Scrum Master Certification",
+      "field": "Agile Enterprise Coach",
+      "institution": "Udemy",
+      "location": "Online",
+      "period": "Certified",
+      "description": "Certified in Agile principles and the official Scrum framework, with expertise in sprint planning and backlog management.",
+      "achievements": []
+    },
+    {
+      "degree": "Figma Essential for UI/UX",
+      "field": "Design",
+      "institution": "Udemy",
+      "location": "Online",
+      "period": "Certified",
+      "description": "Proficient in using Figma to design high-fidelity wireframes, user-centered prototypes, and seamless user flows.",
+      "achievements": []
+    }
+  ],
+  "stats": [
+    {
+      "value": "4+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "2",
+      "label": "Certifications"
+    },
+    {
+      "value": "1.6",
+      "label": "Years Experience"
+    },
+    {
+      "value": "100%",
+      "label": "Commitment"
+    }
+  ],
+  "projectFilters": [
+    "All",
+    "Designer",
+    "Manager"
+  ]
+}
